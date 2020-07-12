@@ -8,7 +8,7 @@ facebook: https://www.facebook.com/
 phone: 1580424XXXX
 email: xxxx@xxx.com
 
-baseurl: "/zhangqi.github.io"
+baseurl: "/zhangqi"
 
 permalink: /:year/:month/:day/:title/
 
